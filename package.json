@@ -1,5 +1,5 @@
 {
-  "name": "ffjavascript",
+  "name": "@elusiv/ffjavascript",
   "type": "module",
   "version": "0.2.57",
   "description": "Finite Field Library in Javascript",
