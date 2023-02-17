@@ -1,5 +1,5 @@
 {
-  "name": "ffjavascript",
+  "name": "@elusiv/ffjavascript",
   "type": "module",
   "version": "0.2.57",
   "description": "Finite Field Library in Javascript",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iden3/ffjavascript.git"
+    "url": "https://github.com/elusiv-privacy/ffjavascript.git"
   },
   "keywords": [
     "Finite",
@@ -25,12 +25,12 @@
     "Cryptography",
     "Library"
   ],
-  "author": "Jordi Baylina",
+  "author": "Jordi Baylina & Elusiv Privacy",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/iden3/ffjavascript/issues"
+    "url": "https://github.com/elusiv-privacy/ffjavascript/issues"
   },
-  "homepage": "https://github.com/iden3/ffjs#readme",
+  "homepage": "https://github.com/elusiv-privacy/ffjavascript#readme",
   "dependencies": {
     "wasmbuilder": "0.0.16",
     "wasmcurves": "0.2.0",
