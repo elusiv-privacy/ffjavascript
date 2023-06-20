@@ -1,7 +1,7 @@
 {
   "name": "@elusiv/ffjavascript",
   "type": "module",
-  "version": "0.2.57",
+  "version": "0.2.59",
   "description": "Finite Field Library in Javascript",
   "main": "./build/main.cjs",
   "module": "./main.js",
@@ -33,7 +33,7 @@
   "homepage": "https://github.com/elusiv-privacy/ffjavascript#readme",
   "dependencies": {
     "wasmbuilder": "0.0.16",
-    "wasmcurves": "0.2.0",
+    "wasmcurves": "0.2.1",
     "web-worker": "^1.2.0"
   },
   "devDependencies": {
