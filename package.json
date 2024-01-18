@@ -20,6 +20,9 @@
     "build:browser": "rollup -c rollup.browser.esm.config.js",
     "build": "npm run build:node && npm run build:browser"
   },
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/elusiv-privacy/ffjavascript.git"
